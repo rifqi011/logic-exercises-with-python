@@ -7,11 +7,13 @@ On a mysterious island, there's a treasure chest locked with a secret code. To u
 
 **Your Mission:**
 Write a Python function called `treasure_code(numbers)` that:
-* Takes a list of numbers as input.
-* Multiplies all the even numbers in the list.
-* If there are no even numbers, returns 1.
+
+-   Takes a list of numbers as input.
+-   Multiplies all the even numbers in the list.
+-   If there are no even numbers, returns 1.
 
 **Example:**
+
 ```python
 # Example 1
 numbers = [2, 3, 4, 5]
@@ -27,6 +29,7 @@ print(treasure_code(numbers))  # Output: 6 (only one even number)
 ```
 
 **Rules:**
+
 1. Don't use built-in functions like `prod` from the `math` library.
 2. Your code should work with empty lists, negative numbers, and mixed number types.
 

@@ -5,11 +5,13 @@ A farmer has an apple orchard. He wants to know how many apples he has in total.
 
 **Your Task:**
 Write a Python function called `count_apples(trees)` that:
-* Takes a list of numbers (representing the apples on each tree).
-* Adds up all the numbers in the list.
-* Returns the total number of apples.
+
+-   Takes a list of numbers (representing the apples on each tree).
+-   Adds up all the numbers in the list.
+-   Returns the total number of apples.
 
 **Example:**
+
 ```python
 # Example 1
 trees = [2, 3, 0, 4]
@@ -25,8 +27,8 @@ print(count_apples(trees))  # Output: 5
 ```
 
 **Rules:**
+
 1. Your code should work even if the list is empty (return 0).
 2. There will be no negative numbers in the list.
 
-Let's help the farmer count his apples! 
-```
+Let's help the farmer count his apples!
