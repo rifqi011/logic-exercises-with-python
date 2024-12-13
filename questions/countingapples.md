@@ -30,11 +30,3 @@ print(count_apples(trees))  # Output: 5
 
 Let's help the farmer count his apples! 
 ```
-
-**Explanation of the Markdown:**
-* **Headers:** `#` is used for headings, making the text bold and larger.
-* **Code Blocks:** Triple backticks (```) are used to denote code blocks, which are essential for showing Python code examples.
-* **Lists:** Unordered lists (like the rules) are created using asterisks (*).
-* **Emphasis:** You can use asterisks (*) or underscores (_) to italicize words or phrases.
-
-This Markdown format will create a well-structured and easy-to-read document on GitHub, perfect for sharing your coding challenge with others.
