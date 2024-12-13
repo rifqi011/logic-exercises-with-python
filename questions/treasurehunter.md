@@ -1,4 +1,3 @@
-```markdown
 ## Treasure Hunt Challenge
 
 **Story:**
